@@ -1,0 +1,4 @@
+﻿  Expression.cpp
+C:\Users\alper\Downloads\LAB03\LAB03\ExpressionEvaluator\ExpressionEvaluator\Expression.cpp(225,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alper\Downloads\LAB03\LAB03\ExpressionEvaluator\ExpressionEvaluator\Expression.cpp(227,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ExpressionEvaluator.vcxproj -> C:\Users\alper\Downloads\LAB03\LAB03\ExpressionEvaluator\ExpressionEvaluator\x64\Debug\ExpressionEvaluator.exe
